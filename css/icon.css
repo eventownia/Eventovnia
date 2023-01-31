@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?18hcdi');
+  src:  url('../fonts/icomoon.eot?18hcdi#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?18hcdi') format('truetype'),
+    url('../fonts/icomoon.woff?18hcdi') format('woff'),
+    url('../fonts/icomoon.svg?18hcdi#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Mediamodifier-Design-15:before {
+  content: "\e90b";
+}
+.icon-Mediamodifier-Design-7:before {
+  content: "\e901";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-3:before {
+  content: "\e902";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-4:before {
+  content: "\e903";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-10:before {
+  content: "\e904";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-5:before {
+  content: "\e905";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-9:before {
+  content: "\e906";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-21:before {
+  content: "\e907";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-8:before {
+  content: "\e908";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-6:before {
+  content: "\e909";
+  color: #7a1c57;
+}
+.icon-Mediamodifier-Design-2:before {
+  content: "\e900";
+  color: #7a1c57;
+}
+.icon-home2:before {
+  content: "\e90a";
+}
